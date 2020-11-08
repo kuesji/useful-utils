@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:export-ydpi="96"
+   inkscape:export-xdpi="96"
+   inkscape:export-filename="/data/home/kuesji/bitmap.png"
+   sodipodi:docname="app.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 135.46666 135.46667"
+   height="512"
+   width="512">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     inkscape:window-maximized="1"
+     inkscape:window-y="0"
+     inkscape:window-x="0"
+     inkscape:window-height="714"
+     inkscape:window-width="1366"
+     units="px"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="292.82136"
+     inkscape:cx="414.87757"
+     inkscape:zoom="0.7"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Katman 1">
+    <rect
+       y="0"
+       x="0"
+       height="135.46666"
+       width="135.46666"
+       id="rect10"
+       style="fill:none;stroke-width:5.44048;paint-order:stroke fill markers;stroke:none" />
+    <path
+       d="m 57.408899,24.409378 -10.58334,6.110221 -3e-6,24.440889 15.357207,8.866646 2e-6,56.070476 10.583345,0 -5e-6,-55.472585 16.392786,-9.46454 -3e-6,-24.440884 -10.583326,-6.110225 -6e-6,11.793083 10e-7,0.427362 0,12.220445 -5.809453,3.353803 -4.773875,2.756416 -5.809464,-3.353796 -4.773869,-2.756422 1e-6,-12.220444 -2e-6,-0.427364 z"
+       style="fill:#000000;stroke:#ececec;stroke-width:7.9375;paint-order:stroke fill markers;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect12" />
+  </g>
+</svg>

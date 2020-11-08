@@ -1,0 +1,2 @@
+rootProject.name='useful utils'
+include ':app'

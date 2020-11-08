@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">useful utils</string>
+	<string name="name_copy2clipboard">copy to clipboard</string>
+	<string name="name_url_router"> route url </string>
+	<string name="msg_link_copied"> copied to clipboard</string>
+	<string name="description_copy2clipboard"> copy links to clipboard via sharing </string>
+	<string name="description_url_router">shows url before opening</string>
+	<string name="state_disable">disable</string>
+	<string name="state_enable">enable</string>
+</resources>
